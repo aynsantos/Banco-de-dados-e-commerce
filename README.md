@@ -1,6 +1,12 @@
 #  Modelagem do projeto de banco de dados para o cenário de e-commerce.
 
 
+
+<h1 align="center">
+   <img alt="img_conceitual_db" title="db_conceitual" src="./src/img/conceitual_ecommerce.png">
+</h1>
+
+
 ## Seed da base de dados pelo MySQL Workbench
 
 ```
