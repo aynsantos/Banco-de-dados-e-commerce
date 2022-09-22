@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-   <img alt="img_conceitual_db" title="db_conceitual" src="./src/img/conceitual_ecommerce.png">
+   <img alt="img_conceitual_db" title="db_conceitual" src="./img/conceitual_ecommerce.png">
 </h1>
 
 
